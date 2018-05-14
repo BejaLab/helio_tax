@@ -1,0 +1,41 @@
+Passed Filter	Seq Len	Tax ID	N Hits
+F	12940	1122613	876
+C	4570	1661709	298	Bacteria; Actinobacteria; NA; Actinobacteria; NA; NA; Actinobacteria bacterium casp-actino12; 
+C	13672	1811651	13062	Archaea; Euryarchaeota; NA; NA; NA; NA; Marine group II euryarchaeote REDSEA-S11_B3N4; 
+C	49067	81684	6	Bacteria; Proteobacteria; NA; NA; NA; NA; NA; 
+F	4771	1946225	177
+C	41287	939324	2672	Bacteria; Proteobacteria; Pelagibacterales; Alphaproteobacteria; Pelagibacteraceae; NA; alpha proteobacterium SCGC AAA288-G21; 
+C	8253	0	0
+C	8068	0	0
+F	20070	226506	19180
+C	536930	1951874	518503	Bacteria; Bacteroidetes; Flavobacteriales; Flavobacteriia; Flavobacteriaceae; NA; Flavobacteriaceae bacterium UBA7302; 
+C	4224	2024827	3869	Bacteria; Proteobacteria; Sphingomonadales; Alphaproteobacteria; Sphingomonadaceae; Citromicrobium; Citromicrobium sp.; 
+C	4750	643867	199	Bacteria; Bacteroidetes; Cytophagales; Cytophagia; Flammeovirgaceae; Marivirga; Marivirga tractuosa; 
+C	107804	2024827	107206	Bacteria; Proteobacteria; Sphingomonadales; Alphaproteobacteria; Sphingomonadaceae; Citromicrobium; Citromicrobium sp.; 
+C	59600	72173	58729	Bacteria; Proteobacteria; Sphingomonadales; Alphaproteobacteria; Sphingomonadaceae; Citromicrobium; NA; 
+C	53152	1946956	52461	Bacteria; Actinobacteria; Micrococcales; Actinobacteria; Microbacteriaceae; Microbacterium; Microbacterium sp. UBA837; 
+C	4722	0	0
+C	5151	1951761	2534	Bacteria; Proteobacteria; Sphingomonadales; Alphaproteobacteria; Erythrobacteraceae; NA; Erythrobacteraceae bacterium UBA5093; 
+C	13713	0	0
+C	6268	0	0
+C	898954	1951485	883162	Bacteria; Balneolaeota; Balneolales; Balneolia; Balneolaceae; NA; Balneolaceae bacterium UBA1486; 
+C	24981	2026729	23619	Bacteria; Bacteroidetes; Cytophagales; Cytophagia; Cytophagaceae; NA; Cytophagaceae bacterium; 
+C	5504	0	0
+C	4569	0	0
+C	7114	0	0
+C	15233	5806	7	Eukaryota; Apicomplexa; Eucoccidiorida; Conoidasida; Cryptosporidiidae; Cryptosporidium; NA; 
+C	22257	131567	3	NA; NA; NA; NA; NA; NA; NA; 
+C	60165	0	0
+C	13362	0	0
+F	7455	1951236	3
+C	7280	0	0
+C	4003	0	0
+F	25323	38448	8
+F	14141	1883427	339
+F	11167	211	9
+C	42346	0	0
+C	38843	0	0
+C	7667	1986692	600	Archaea; Euryarchaeota; NA; NA; NA; NA; Euryarchaeota archaeon TMED252; 
+C	6460	0	0
+C	23826	0	0
+C	7652	0	0
