@@ -1,0 +1,13 @@
+,tax_assignment,rhod_classification,variable,value
+0,Archaea,helio,count,4
+1,Archaea,type_1,count,45
+2,Eukaryotes,helio,count,48
+3,Eukaryotes,type_1,count,100
+6,Unclassified Bacteria,helio,count,13
+7,Unclassified Bacteria,type_1,count,101
+8,Viruses,Unclassified,count,1
+9,Viruses,helio,count,41
+10,Viruses,type_1,count,197
+11,Diderm,type_1,count,318
+12,Monoderm,helio,count,23
+13,Monoderm,type_1,count,15
